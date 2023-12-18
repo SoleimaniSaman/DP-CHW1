@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{OpenDPMIA}
+{OpenDP}.
+\newblock
+  \url{https://docs.opendp.org/en/stable/examples/attacks/membership.html}.
+\newblock Accessed: 2023-12-14.
+
+\bibitem{dwork2015robust}
+Cynthia Dwork, Adam Smith, Thomas Steinke, Jonathan Ullman, and Salil Vadhan.
+\newblock Robust traceability from trace amounts.
+\newblock In {\em 2015 IEEE 56th Annual Symposium on Foundations of Computer
+  Science}, pages 650--669. IEEE, 2015.
+
+\end{thebibliography}
